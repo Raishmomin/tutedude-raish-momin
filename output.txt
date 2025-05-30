@@ -1,0 +1,2 @@
+Hello, this is a test.
+This content is written to a file.
